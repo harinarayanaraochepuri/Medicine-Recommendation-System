@@ -141,7 +141,6 @@ Medicine-Recommendation-System/
 ├── medicine.csv
 ├── README.md
 ├── requirements.txt
-└── LICENSE
 ```
 
 ---
