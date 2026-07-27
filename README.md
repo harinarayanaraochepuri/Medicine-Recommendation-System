@@ -123,11 +123,11 @@ Input:
 ACGEL CL NANO Gel 15gm
 
 Output:
-Medicine 1
-Medicine 2
-Medicine 3
-Medicine 4
-Medicine 5
+ACGEL NANO Gel 15gm
+Acnehit Gel 15gm
+Acnelak Soap 75gm
+Acnetor AD 1% Ointment 15gm
+Acnetor AD Cream 15Acnetor AD Gel 15gm
 ```
 
 ---
